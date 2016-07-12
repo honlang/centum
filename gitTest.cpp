@@ -5,6 +5,6 @@ int main(
 	int b = 2;
 	cout << a + b << endl;
 	cout << a + b << endl;
-	printf("±ê ÁÁ³× \n");
+	printf("%d", a*b);
 	return 0;
 }
