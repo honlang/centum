@@ -5,6 +5,6 @@ int main(
 	int b = 2;
 	cout << a + b << endl;
 	cout << a + b << endl;
-	cout << a + b << endl;
+	cout << "±ê ÁÁ³× " << endl;
 	return 0;
 }
